@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @movie01request
+# Subscribe YouTube Channel For Amazing Bot @123telugfacts
+# Ask Doubt on telegram @prime3602
 
 
 import re
@@ -138,6 +138,6 @@ LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @movie01request
+# Subscribe YouTube Channel For Amazing Bot @123telugfacts
+# Ask Doubt on telegram @prime3602
