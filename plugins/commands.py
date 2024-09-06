@@ -82,7 +82,7 @@ async def start(client, message):
             return
         btn = [
             [
-                InlineKeyboardButton("Join Our Channel", url="(https://t.me/+19Oopg5dHVE5NmM1)")
+                InlineKeyboardButton("Join Our Channel", url="(https://t.me/+dRFgqU8jANkwNGE1)")
             ],[
                 InlineKeyboardButton('🤔 Why Iam Join🤔', callback_data='sinfo')
             ]
