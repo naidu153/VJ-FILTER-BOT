@@ -172,7 +172,7 @@ async def start(client, message):
                                 InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://prime3602")
                             ],
                             [
-                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{https://ddl-bot.koyeb.app/}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
